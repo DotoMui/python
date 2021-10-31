@@ -1,0 +1,2 @@
+binary_parse:
+https://stackoverflow.com/questions/49685032/how-to-get-a-parse-in-a-bracketed-format-without-pos-tags/50745280#50745280?newreg=a0673424baff4a19bde13ed199c29850
